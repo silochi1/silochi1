@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on completing CS50 Web
 - 🌱 I’m currently learning about agriculture 
-- ⚡ Fun fact: “The Terminator” script was sold for $1.
+- ⚡ Fun fact: “The Terminator” script was sold for $1
 
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silochi1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
