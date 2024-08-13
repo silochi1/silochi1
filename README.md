@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silochi1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Daily Dev Tips -->
-<a href="https://app.daily.dev/solomoncodes"><img src="https://api.daily.dev/devcards/v2/Wm0on5yyLRnO2vm0XxAYJ.png?type=default&r=3pu" width="356" alt="Solomon's Dev Card"/></a>
+<a href="https://app.daily.dev/solomoni95"><img src="https://api.daily.dev/devcards/v2/sq75VJnaXFhHptldOO0wi.png?r=73u&type=default" width="356" alt="Solomon I.'s Dev Card"/></a>
 
 <!--
 **silochi1/silochi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
