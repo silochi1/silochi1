@@ -7,6 +7,9 @@
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silochi1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Github Language Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silochi1&layout=compact)
+
 <!-- Daily Dev Tips -->
 <a href="https://app.daily.dev/solomoni95"><img src="https://api.daily.dev/devcards/v2/sq75VJnaXFhHptldOO0wi.png?r=73u&type=default" width="356" alt="Solomon I.'s Dev Card"/></a>
 
