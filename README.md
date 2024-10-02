@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on completing CS50 Web
+- 🔭 I’ve completed CS50 & CS50 Web
 - 🌱 I’m currently learning about agriculture 
 - ⚡ Fun fact: “The Terminator” script was sold for $1
 
